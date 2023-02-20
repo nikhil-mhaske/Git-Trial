@@ -1,1 +1,2 @@
 Hi modified
+Changes added for git connection test
